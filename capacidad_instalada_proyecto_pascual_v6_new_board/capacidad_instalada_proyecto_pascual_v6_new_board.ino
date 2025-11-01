@@ -1,7 +1,7 @@
 /*
 Author: Andres Perez
 Docente: Institución Universitaria Pascual Bravo
-Date: 09/07/2024
+Date: 01/11/2025
 Versión: v1.3
 Descripción: Sistema IoT con LoRa E32 (modo normal de transmisión),
 GPS, sensores de corriente y temperatura. M0=21, M1=14.
